@@ -1,0 +1,25 @@
+{
+  "name": "capstoneproject",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeenalSanjayPansare/BlogWebApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeenalSanjayPansare/BlogWebApp/issues"
+  },
+  "homepage": "https://github.com/MeenalSanjayPansare/BlogWebApp#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
